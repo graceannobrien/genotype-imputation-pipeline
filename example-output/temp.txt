@@ -1,2 +1,5 @@
 Add FHS pre-imputation log summary file, pdf of fig and tables
 and FHS post-imputation imputation summary files, pdf of fig and tables
+and FHS 2nd imputation post-imputation imputation summary files, pdf of fig and tables
+
+MAF y/n?
